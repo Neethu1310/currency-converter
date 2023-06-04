@@ -1,0 +1,35 @@
+h1{
+    color: white;
+    font-family: 'Oleo Script', cursive;
+   
+   }
+    
+   
+   .main-container{
+   background-image:linear-gradient(to top ,black, blue ,black) ;
+   opacity: 0.85;
+       width: 350px;
+       height: 400px;
+       border-radius: 10px;
+       display: flex;
+       flex-direction: column;
+       justify-content: center;
+       align-items: center;
+       font-family: 'Castoro', serif;
+    }
+   
+    label{
+        color: white;
+        font-size: x-large;
+        font-family: 'Oleo Script', cursive;
+
+    }
+    
+      
+   
+    p{
+        color: white;
+        font-size: xx-large;
+        font-family: 'Oleo Script', cursive;
+
+    }
